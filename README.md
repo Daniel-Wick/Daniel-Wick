@@ -4,8 +4,8 @@
 - No momento, sou estudante dos cursos de Engenharia de Computação e Segurança da Informação. Venho aprimorando, também, meus conhecimentos em HTML, CSS, JavaScript, Frameworks, Linux, Java, C++, C# e Python. 
 <div>
   <a href="https://github.com/Daniel-Wick">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Daniel-Wick&show_icons=true&theme=merko">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Wick&theme=merko">
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Daniel-Wick&show_icons=true&theme=merko">
+  <img height="140" width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Wick&layout=compact&langs_count=10&theme=merko">
 </div>  
 <div style="display: inline_block"><br>
   <img align="center" alt="DanWick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
